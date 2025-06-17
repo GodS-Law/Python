@@ -1,0 +1,12 @@
+This is a description of how my codes work
+
+TASK 1:
+First it ask for input from the user usnig input function. with the input function i have added the float function because i needed to do the calculation in the code.
+Here f_no refers to first number and s_no refers to second number.
+Secondly it does the simple calculation with the recieved input. ie. addition, subtraction,  multiplication and division.
+Lastly it shows the result in with help of print function.
+
+TASK 2:
+First it asks the user for its first and last name by using input function.
+Here f_name refers to First name and s_name refers to last name.
+Secondly it uses the recieved input to form a sentance. ie. Hello! (First name) (Last Name)! Welcome to the Python program.
